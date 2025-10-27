@@ -1,0 +1,90 @@
+Conta,Forma Pagamento,Valor,Data Lançamento,Data Pagamento,Realizado
+Saldo Inicial,Transferência,50000,01/01/2024,01/01/2024,Sim
+Orçamento 1,Pix,45000,02/01/2024,02/01/2024,Sim
+Consultoria,Boleto,12000,05/01/2024,05/01/2024,Sim
+Salários e Benefícios,Transferência,48000,05/01/2024,05/01/2024,Sim
+Aluguel de Escritório,Transferência,8500,05/01/2024,05/01/2024,Sim
+Marketing,Pix,5000,08/01/2024,08/01/2024,Sim
+Imposto sobre Vendas,Transferência,1500,10/01/2024,10/01/2024,Sim
+Despesas com Licenças,Boleto,1200,15/01/2024,15/02/2024,Não
+Orçamento 2,Transferência,35000,18/01/2024,18/02/2024,Não
+Luz,Pix,850,25/01/2024,25/01/2024,Sim
+Telefonia,Boleto,450,28/01/2024,28/01/2024,Sim
+Orçamento 4,Pix,60000,01/02/2024,01/02/2024,Sim
+Despesas com Assinaturas,Transferência,3500,05/02/2024,05/02/2024,Sim
+Salários e Benefícios,Transferência,48000,05/02/2024,05/02/2024,Sim
+Aluguel de Escritório,Transferência,8500,05/02/2024,05/02/2024,Sim
+Orçamento 1,Boleto,48000,15/02/2024,15/03/2024,Não
+Despesas com Licenças,Boleto,1200,15/02/2024,15/03/2024,Não
+Consultoria,Pix,10000,20/02/2024,20/02/2024,Sim
+Água,Pix,1200,25/02/2024,25/02/2024,Sim
+Orçamento 2,Transferência,38000,01/03/2024,01/03/2024,Sim
+Marketing,Transferência,5500,05/03/2024,05/03/2024,Sim
+Salários e Benefícios,Transferência,48000,05/03/2024,05/03/2024,Sim
+Orçamento 4,Pix,65000,10/03/2024,10/04/2024,Não
+Manutenção e Reparos,Boleto,4000,15/03/2024,15/03/2024,Sim
+Imposto sobre Vendas,Transferência,2500,20/03/2024,20/03/2024,Sim
+Luz,Pix,900,25/03/2024,25/03/2024,Sim
+Orçamento 1,Pix,49000,01/04/2024,01/04/2024,Sim
+Salários e Benefícios,Transferência,48000,05/04/2024,05/04/2024,Sim
+Aluguel de Escritório,Transferência,8500,05/04/2024,05/04/2024,Sim
+Orçamento 3,Boleto,15000,10/04/2024,10/05/2024,Não
+Despesas com Licenças,Boleto,1200,15/04/2024,15/05/2024,Não
+Materiais de Escritório,Transferência,600,20/04/2024,20/04/2024,Sim
+Água,Pix,1300,25/04/2024,25/04/2024,Sim
+Orçamento 2,Transferência,40000,01/05/2024,01/05/2024,Sim
+Marketing,Pix,6000,05/05/2024,05/05/2024,Sim
+Salários e Benefícios,Transferência,48000,05/05/2024,05/05/2024,Sim
+Telefonia,Boleto,500,10/05/2024,10/05/2024,Sim
+Orçamento 4,Pix,70000,15/05/2024,15/05/2024,Sim
+Imposto sobre Vendas,Transferência,3000,20/05/2024,20/05/2024,Sim
+Luz,Pix,950,25/05/2024,25/05/2024,Sim
+Orçamento 1,Boleto,52000,01/06/2024,01/07/2024,Não
+Salários e Benefícios,Transferência,48000,05/06/2024,05/06/2024,Sim
+Aluguel de Escritório,Transferência,8500,05/06/2024,05/06/2024,Sim
+Despesas com Assinaturas,Transferência,3500,10/06/2024,10/06/2024,Sim
+Consultoria,Pix,14000,15/06/2024,15/07/2024,Não
+Materiais de Escritório,Transferência,700,20/06/2024,20/06/2024,Sim
+Água,Pix,1400,25/06/2024,25/06/2024,Sim
+Orçamento 2,Transferência,42000,01/07/2024,01/07/2024,Sim
+Marketing,Pix,6500,05/07/2024,05/07/2024,Sim
+Salários e Benefícios,Transferência,48000,05/07/2024,05/07/2024,Sim
+Orçamento 3,Boleto,18000,10/07/2024,10/08/2024,Não
+Manutenção e Reparos,Transferência,5000,15/07/2024,15/07/2024,Sim
+Imposto sobre Vendas,Transferência,3500,20/07/2024,20/07/2024,Sim
+Luz,Pix,1000,25/07/2024,25/07/2024,Sim
+Orçamento 4,Pix,75000,01/08/2024,01/08/2024,Sim
+Salários e Benefícios,Transferência,48000,05/08/2024,05/08/2024,Sim
+Aluguel de Escritório,Transferência,8500,05/08/2024,05/08/2024,Sim
+Orçamento 1,Boleto,55000,15/08/2024,15/09/2024,Não
+Despesas com Licenças,Boleto,1200,15/08/2024,15/09/2024,Não
+Telefonia,Boleto,550,20/08/2024,20/08/2024,Sim
+Água,Pix,1500,25/08/2024,25/08/2024,Sim
+Orçamento 2,Transferência,45000,01/09/2024,01/09/2024,Sim
+Marketing,Pix,7000,05/09/2024,05/09/2024,Sim
+Salários e Benefícios,Transferência,48000,05/09/2024,05/09/2024,Sim
+Orçamento 3,Boleto,20000,10/09/2024,10/10/2024,Não
+Despesas com Assinaturas,Transferência,3500,15/09/2024,15/09/2024,Sim
+Imposto sobre Vendas,Transferência,4000,20/09/2024,20/09/2024,Sim
+Luz,Pix,1050,25/09/2024,25/09/2024,Sim
+Orçamento 4,Pix,80000,01/10/2024,01/10/2024,Sim
+Salários e Benefícios,Transferência,48000,05/10/2024,05/10/2024,Sim
+Aluguel de Escritório,Transferência,8500,05/10/2024,05/10/2024,Sim
+Orçamento 1,Boleto,58000,15/10/2024,15/11/2024,Não
+Manutenção e Reparos,Boleto,6000,15/10/2024,15/10/2024,Sim
+Materiais de Escritório,Transferência,800,20/10/2024,20/10/2024,Sim
+Água,Pix,1600,25/10/2024,25/10/2024,Sim
+Orçamento 2,Transferência,48000,01/11/2024,01/11/2024,Sim
+Marketing,Pix,7500,05/11/2024,05/11/2024,Sim
+Salários e Benefícios,Transferência,48000,05/11/2024,05/11/2024,Sim
+Orçamento 3,Boleto,22000,10/11/2024,10/12/2024,Não
+Despesas com Licenças,Boleto,1200,15/11/2024,15/12/2024,Não
+Imposto sobre Vendas,Transferência,4500,20/11/2024,20/11/2024,Sim
+Luz,Pix,1100,25/11/2024,25/11/2024,Sim
+Orçamento 4,Pix,85000,01/12/2024,01/12/2024,Sim
+Salários e Benefícios,Transferência,48000,05/12/2024,05/12/2024,Sim
+Aluguel de Escritório,Transferência,8500,05/12/2024,05/12/2024,Sim
+Consultoria,Pix,15000,15/12/2024,15/12/2024,Sim
+Despesas com Assinaturas,Transferência,3500,15/12/2024,15/12/2024,Sim
+Telefonia,Boleto,600,20/12/2024,20/12/2024,Sim
+Água,Pix,1700,25/12/2024,25/12/2024,Sim
