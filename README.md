@@ -1,6 +1,7 @@
 # 💸 Dashboard de Fluxo de Caixa Gerencial & Projeção de Liquidez (2024)
 
 ![Preview do Dashboard](./Fluxo_de_Caixa.png)
+![Preview do Relatório de Contas](./Relatório_de_Contas.png)
 
 ## 📌 Sobre o Projeto
 Este projeto apresenta um **dashboard de Fluxo de Caixa (DFC)** interativo desenvolvido no **Microsoft Excel**. Seu principal objetivo é modelar a **liquidez futura** da empresa (Regime de Caixa), segregando o histórico **Realizado** das **Provisões** (Contas Pendentes) e entregando o **Saldo Total Projetado** (R$ 420.250,00) como métrica central.
@@ -44,9 +45,6 @@ Este projeto apresenta um **dashboard de Fluxo de Caixa (DFC)** interativo desen
 
 ### I. Configuração dos Relatórios Auxiliares
 11. **Relatório de Contas (Base Visual):** Criado com Tabela Dinâmica e `Soma do Registro de Valor`, sendo a base interativa (Slicers/Linhas do Tempo) do Dashboard.
-
-![Preview do Relatório de Contas](./Relatório_de_Contas.png)
-
 12. **Planilha Central:** Criação da planilha **`Análises`** para abrigar todas as TDs e cálculos (Passo 12).
 
 ### II. Módulos de Cálculo e Projeção
