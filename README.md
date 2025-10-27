@@ -19,6 +19,7 @@ Este projeto apresenta um **dashboard de Fluxo de Caixa (DFC)** interativo desen
 ## 📂 Estrutura do Repositório
 - `Dashboard_Fluxo_de_Caixa.xlsx` → Arquivo principal do relatório.
 - `Fluxo_de_Caixa.png` → Imagem de pré-visualização do dashboard.
+- `Relatório_de_Contas.png` → Imagem de pré-visualização do relatório interativo de contas.
 - `csv_fluxo_de_caixa.txt` → Arquivo de texto contendo a base de dados em formato CSV para importação.
 - `README.md` → Documentação detalhada do projeto.
 
@@ -43,6 +44,9 @@ Este projeto apresenta um **dashboard de Fluxo de Caixa (DFC)** interativo desen
 
 ### I. Configuração dos Relatórios Auxiliares
 11. **Relatório de Contas (Base Visual):** Criado com Tabela Dinâmica e `Soma do Registro de Valor`, sendo a base interativa (Slicers/Linhas do Tempo) do Dashboard.
+
+![Preview do Relatório de Contas](./Relatório_de_Contas.png)
+
 12. **Planilha Central:** Criação da planilha **`Análises`** para abrigar todas as TDs e cálculos (Passo 12).
 
 ### II. Módulos de Cálculo e Projeção
